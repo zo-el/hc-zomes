@@ -9,5 +9,5 @@ name = "membrane_manager_lib"
 crate-type = [ "cdylib", "rlib" ]
 
 [dependencies]
-hdk = "=0.0.101-alpha.0"
+hdk = "=0.0.102"
 hc_joining_code = {path = "../../crates/joining_code"}
