@@ -247,7 +247,7 @@ checksum = "ab5ef0d4909ef3724cc8cce6ccc8572c5c817592e9285f5464f8e86f8bd3726e"
 [[package]]
 name = "hc_utils"
 version = "0.3.0"
-source = "git+https://github.com/holochain/hc-utils?branch=v0.0.103#889eef45ff963106c5944789a1453a008ce7545f"
+source = "git+https://github.com/holochain/hc-utils?branch=v0.0.106-dev.0#747e1e09ae84cd0d7362e26d376579d601320107"
 dependencies = [
  "hdk",
  "holo_hash",
